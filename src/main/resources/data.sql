@@ -6,3 +6,5 @@ insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port
 values(10003,'AUD','INR',25,0);
 insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port)
 values(10004,'TEST','TEST1',25,0);
+insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port)
+values(10005,'TEST2','TEST3',25,0);
